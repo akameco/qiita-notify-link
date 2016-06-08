@@ -1,6 +1,6 @@
 # qiita-notify-link
 
-> Qiitaの通知のユーザのテキストをリンクに変更するchrome拡張
+> Qiita通知欄のユーザーをリンクに変更するchrome拡張
 
 ## Install
 

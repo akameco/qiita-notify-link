@@ -1,0 +1,21 @@
+{
+	"name": "qiita-notify-link",
+	"version": "0.0.1",
+	"manifest_version": 2,
+	"description": "Qiitaの通知のユーザをリンクにする",
+	"minimum_chrome_version": "49",
+	"permissions": [
+		"http://qiita.com/*"
+	],
+	"content_scripts": [
+		{
+			"run_at": "document_start",
+			"matches": [
+				"http://qiita.com/*"
+			],
+			"js": [
+				"index.js"
+			]
+		}
+	]
+}

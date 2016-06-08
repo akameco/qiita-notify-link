@@ -1,0 +1,28 @@
+{
+  "name": "qiita-notify-link",
+  "version": "0.0.0",
+  "description": "Qiitaの通知のユーザのテキストをリンクに変更するchrome拡張",
+  "license": "MIT",
+  "repository": "akameco/qiita-notify-link",
+  "author": {
+    "name": "akameco",
+    "email": "akameco.t@gmail.com",
+    "url": "akameco.github.io"
+  },
+  "scripts": {
+    "test": "xo"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "xo": "^0.15.0"
+  },
+  "xo": {
+    "esnext": true,
+    "envs": [
+      "browser"
+    ]
+  }
+}

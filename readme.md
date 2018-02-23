@@ -1,5 +1,7 @@
 # qiita-notify-link
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/qiita-notify-link.svg)](https://greenkeeper.io/)
+
 > Qiita通知欄のユーザーをリンクに変更するchrome拡張
 
 ## Install
